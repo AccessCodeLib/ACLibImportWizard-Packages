@@ -1,0 +1,31 @@
+---------------------------------------------------------------------------------------
+ Package: Better Access Charts
+---------------------------------------------------------------------------------------
+<codelib>
+  <package>Better Access Charts</package>
+  <description>Better charts for Access with Chart.js in the Edge browser control. MIT License, version 4.29.01 (https://github.com/team-moeller/better-access-charts)</description>
+  <use>%GITHUB%:team-moeller/better-access-charts@4.29.01/Modules/BAC__Factory.cls</use>
+  <use>%GITHUB%:team-moeller/better-access-charts@4.29.01/Modules/BAC__Namespace.bas</use>
+  <use>%GITHUB%:team-moeller/better-access-charts@4.29.01/Modules/BAC_Animation.cls</use>
+  <use>%GITHUB%:team-moeller/better-access-charts@4.29.01/Modules/BAC_Axis.cls</use>
+  <use>%GITHUB%:team-moeller/better-access-charts@4.29.01/Modules/BAC_Chart.cls</use>
+  <use>%GITHUB%:team-moeller/better-access-charts@4.29.01/Modules/BAC_ChartGenerator.cls</use>
+  <use>%GITHUB%:team-moeller/better-access-charts@4.29.01/Modules/BAC_ChartJS_Plugin_AutoColors.cls</use>
+  <use>%GITHUB%:team-moeller/better-access-charts@4.29.01/Modules/BAC_ChartJS_Plugin_Datalabels.cls</use>
+  <use>%GITHUB%:team-moeller/better-access-charts@4.29.01/Modules/BAC_ChartJS.cls</use>
+  <use>%GITHUB%:team-moeller/better-access-charts@4.29.01/Modules/BAC_Data.cls</use>
+  <use>%GITHUB%:team-moeller/better-access-charts@4.29.01/Modules/BAC_DataLabels.cls</use>
+  <use>%GITHUB%:team-moeller/better-access-charts@4.29.01/Modules/BAC_DataSource.cls</use>
+  <use>%GITHUB%:team-moeller/better-access-charts@4.29.01/Modules/BAC_Defaults.cls</use>
+  <use>%GITHUB%:team-moeller/better-access-charts@4.29.01/Modules/BAC_Font.cls</use>
+  <use>%GITHUB%:team-moeller/better-access-charts@4.29.01/Modules/BAC_Grid.cls</use>
+  <use>%GITHUB%:team-moeller/better-access-charts@4.29.01/Modules/BAC_Helper.cls</use>
+  <use>%GITHUB%:team-moeller/better-access-charts@4.29.01/Modules/BAC_Legend_Title.cls</use>
+  <use>%GITHUB%:team-moeller/better-access-charts@4.29.01/Modules/BAC_Legend.cls</use>
+  <use>%GITHUB%:team-moeller/better-access-charts@4.29.01/Modules/BAC_Scripts.cls</use>
+  <use>%GITHUB%:team-moeller/better-access-charts@4.29.01/Modules/BAC_StringBuilder.cls</use>
+  <use>%GITHUB%:team-moeller/better-access-charts@4.29.01/Modules/BAC_SubTitle.cls</use>
+  <use>%GITHUB%:team-moeller/better-access-charts@4.29.01/Modules/BAC_Title.cls</use>
+  <use>%GITHUB%:team-moeller/better-access-charts@4.29.01/Modules/BAC_Tooltip.cls</use>
+</codelib>
+---------------------------------------------------------------------------------------
